@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">ChangeLanguageExample</string>
+    <string name="change_language">change_language</string>
+    <string name="english">english</string>
+    <string name="arabic">arabic</string>
+    <string name="select_language">select language</string>
+</resources>

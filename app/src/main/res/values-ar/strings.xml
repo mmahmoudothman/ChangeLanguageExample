@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">تغير اللغه </string>
+    <string name="english">الانجليزيه </string>
+    <string name="arabic">العربيه</string>
+    <string name="select_language">اختار اللغه</string>
+</resources>
